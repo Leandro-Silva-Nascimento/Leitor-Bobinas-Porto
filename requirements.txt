@@ -1,6 +1,0 @@
-streamlit
-google-genai
-anthropic
-pandas
-pdfplumber
-pillow
