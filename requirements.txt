@@ -1,0 +1,8 @@
+streamlit
+google-genai
+anthropic
+pandas
+pillow
+openpyxl
+python-dotenv
+opencv-python-headless
